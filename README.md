@@ -12,4 +12,4 @@ I am proficient in the following programming languages and tools:
 ## Social Media
 You may find me in the following social media platforms:
 
-<p align="center"> <img src="https://img.shields.io/badge/JSON-%23F0FFFF?style=for-the-badge&logo=json&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link="https://www.linkedin.com/in/taxpater" alt="My Linkedin Page"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/LINKEDIN-%23F0FFFF?style=for-the-badge&logo=linkedin&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link="https://www.linkedin.com/in/taxpater" alt="My Linkedin Page"/> </p>
