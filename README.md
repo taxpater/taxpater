@@ -1,8 +1,6 @@
 <h1 align="center">Taxiarchis Paterelis</h1>
 <h3 align="center">Current student at the University of Thessaly.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thealonegeneral&color=lightgrey&style=for-the-badge&abbreviated=true" alt="Javascript" /> </p>
-
 ## Languages and Tools
 I am proficient in the following programming languages and tools:
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-%23F0FFFF?style=for-the-badge&logo=javascript&logoColor=%23F0FFFF&labelColor=%232F4F4F&color=%232F4F4F&link=https%3A%2F%2Fwww.javascript.com%2F" alt="JavaScript logo"/>
