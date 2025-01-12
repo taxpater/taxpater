@@ -3,16 +3,33 @@
 
 ## Languages and Tools
 I am proficient in the following programming languages and tools:
-<p align="center">
-<img src="https://img.shields.io/badge/Java-darkslategrey?style=for-the-badge&logo=openjdk&logoSize=auto&link=https://www.java.com/en/" alt="JavaScript logo"/>
-<img src="https://img.shields.io/badge/JavaScript-darkslategrey?style=for-the-badge&logo=javascript&logoSize=auto&link=https%3A%2F%2Fwww.javascript.com%2F" alt="JavaScript logo"/>
-<img src="https://img.shields.io/badge/JSON-darkslategrey?style=for-the-badge&logo=json&logoSize=auto&link=https://www.json.org/json-en.html" alt="JSON logo"/>
-<img src="https://img.shields.io/badge/Node.js-darkslategrey?style=for-the-badge&logo=node.js&logoSize=auto&link=https://nodejs.org/en" alt="Node.js logo" />
-<img src="https://img.shields.io/badge/C-darkslategrey?style=for-the-badge&logo=c&logoSize=auto&link=https://www.learn-c.org/" alt="C logo" />
-<img src="https://img.shields.io/badge/MongoDB-darkslategrey?style=for-the-badge&logo=mongodb&logoSize=1&link=https://www.mongodb.com/" alt="MongoDB logo"/>
-</p>
+<div align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  </a>
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  </a>
+  <a href="https://www.json.org/json-en.html" target="_blank">
+    <img src="https://img.shields.io/badge/json-darkslategrey?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  </a>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  </a>
+</div>
 
 ## Social Media
 You may find me in the following social media platforms:
 
-<p align="center"> <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftaxpater" alt="JSON logo"/>  </p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/taxpater" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="instagram.com/taxpater" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
