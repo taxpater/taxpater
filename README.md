@@ -1,5 +1,5 @@
 <h1 align="center">Taxiarchis Paterelis</h1>
-<h3 align="center">Current student at the University of Thessaly.</h3>
+<h4 align="center">Current student at the University of Thessaly.</h3>
 
 ## Languages and Tools
 I am proficient in the following programming languages and tools:
